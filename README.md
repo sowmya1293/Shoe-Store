@@ -1,2 +1,2 @@
 # Shoe-Store
-HTML and CSS Project
+HTML and CSS Project. Application of a shoe store.
